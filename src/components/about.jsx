@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. I love exploring new technologies and have a passion for travel, having lived in the U.K. south of London and in the Germany wine country for a time. I am currently lucky enough to have family in Dublin, Ireland, and Geneva, Switzerland.</p>
+                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. My wife and I have four boys (makes a pretty decent ski team). I love exploring and learning new technologies and have a passion for travel, having lived both in the U.K. south of London and in the German wine country. I am currently lucky enough to have family to visit in Dublin, Ireland, and Geneva, Switzerland.</p>
                     </div>
                 </div>
                 </div>
@@ -30,7 +30,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Projects</span>
                     <h2 className="colorlib-heading">Itinerator</h2>
-                    <p>The <a href="http://167.172.126.107:8080/">Itinerator</a> (beta release) is an application that leverages RESTful APIs such as Google maps, Eventful, and the Hiking Project to create travel itineraries with optimized directions between selected restaurants, museums, live events, and hiking trails for cities around the world. It features a back-end server in Express to handle request and response routes. </p>
+                    <p>The <a href="http://167.172.126.107:8080/">Itinerator</a> (click link for beta release) is an application that leverages RESTful APIs such as Google maps, Eventful, and the Hiking Project to create travel itineraries with optimized directions between selected restaurants, museums, live events, and hiking trails for cities around the world. In addition to using 3 unique external APIs, it features a back-end server in Express to handle request and response routes. </p>
                     </div>
                 </div>
                 </div>
