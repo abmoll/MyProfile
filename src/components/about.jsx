@@ -4,7 +4,7 @@ export default class About extends Component {
   render() {
     return (
       <div>
-        <section className="colorlib-about" data-section="about">
+        <section style={{padding:'30px 0 0 0'}} className="colorlib-about" data-section="about">
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-12">
@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. My wife and I have four boys (which makes for a decent recreational ski team). I love exploring and learning new technologies and I have a passion for travel, having lived in England (south of London), and in the German wine country (it has more to offer than sweet Reislings). I am currently lucky enough to have family to visit in Dublin, Ireland, and Geneva, Switzerland.</p>
+                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. My wife and I have four boys (which makes for a decent recreational ski team). I love exploring new technologies and I have a passion for travel, having lived in England (south of London), as well as in the German wine country (it has more to offer than sweet Reislings). I am lucky enough to have family to visit in Dublin, Ireland, and Geneva, Switzerland.</p>
                     </div>
                 </div>
                 </div>
@@ -21,7 +21,7 @@ export default class About extends Component {
             </div>
         </div>
         </section>
-        <section className="colorlib-about" data-section="projects">
+        <section style={{padding:'30px 0 0 0'}} className="colorlib-about" data-section="projects">
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-12">
@@ -38,7 +38,7 @@ export default class About extends Component {
             </div>
         </div>
         </section>
-        <section className="colorlib-about" data-section="expertise">
+        <section style={{padding:'30px 0 0 0'}} className="colorlib-about" data-section="expertise">
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -76,7 +76,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>DevOps</h3>
-                    <p>My current DevOps team provides continuous development support for an enterprise web application that enables IT system management for our customers.</p>
+                    <p>My current DevOps team provides continuous development support for an enterprise web application that enables IT system management. Because we are integrated with Operations, our team rapidly deploys software.</p>
                 </div>
                 </div>
             </div>
