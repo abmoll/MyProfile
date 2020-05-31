@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Full Stack Web Developer at CodeCraft <span>Aug. 2017 - Dec. 2017</span></h2>
-                        <p>I completed a 16 week immersive training program offering a professional certificate in full-stack web development. Produced work for a large variety of projects that required use of jQuery, Node.js, Vue.js, React, Express.js, Bootstrap, MongoDB, and Git.</p>
+                        <p>I completed a 16 week immersive training program offering a professional certificate in full-stack web development. During this time, I produced work for a large variety of projects that required use of jQuery, Node.js, Vue.js, React, Express.js, Bootstrap, MongoDB, and Git.</p>
                       </div>
                     </div>
                   </article>

@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. My wife and I have four boys (which makes for a decent recreational ski team). I love exploring new technologies and I have a passion for travel, having lived in England (south of London), as well as in the German wine country (it has more to offer than sweet Reislings). I am lucky enough to have family to visit in Dublin, Ireland, and Geneva, Switzerland.</p>
+                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. My wife and I have four boys (which makes for a decent recreational ski team). I have a passion for travel, having lived in England as well as in the German wine country (it has more to offer than sweet Reislings). I am lucky enough to have family to visit in Dublin, Ireland, and Geneva, Switzerland.</p>
                     </div>
                 </div>
                 </div>
@@ -65,7 +65,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures</h3>
-                    <p>Coming from a NoSQL background, I have a good grasp of data structures and database schema along with a well-founded knowledge of MongoDB.</p>
+                    <p>Coming from a NoSQL background, I have a good grasp of data structures and database schemas along with a well-founded knowledge of MongoDB.</p>
                 </div>
                 </div>
             </div>
