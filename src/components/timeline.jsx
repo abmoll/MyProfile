@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Full Stack Software Engineer at Denovo <span>Jan. 2018 - present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
+                        <p>At Denovo I used agile processes along with the latest JavaScript frameworks to build a reliable, highly robust web application used by over 200 companies. I integrated Google Analytics with our proprietary ITSM website to track application usage, and gathered metrics to enhance website features, improve performance, and increase user retention. In addition, I reduced the effort required to test software releases by creating automated tests for new application features using Chai, Puppeteer, and Mocha.</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +33,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Full Stack Web Developer at CodeCraft <span>Aug. 2017 - Dec. 2017</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <p>I completed a 16 week immersive training program offering a professional certificate in full-stack web development. Produced work for a large variety of projects that required use of jQuery, Node.js, Vue.js, React, Express.js, Bootstrap, MongoDB, and Git.</p>
                       </div>
                     </div>
                   </article>
@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Website Documentation Developer at Viavi <span>Apr. 2010 - Jun. 2017</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <p>At Viavi I streamlined business workflows extensively by creating processes for single-sourcing web documents and templates in XML and HTML format. I built a content management system using HTML, CSS, and JavaScript to enable document reuse. I also made software developer’s jobs easier by using agile processes to create well-structured SDK Guides, API manuals, and installation guides.</p>
                       </div>
                     </div>
                   </article>

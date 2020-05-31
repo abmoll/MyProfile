@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. My wife and I have four boys (makes a pretty decent ski team). I love exploring and learning new technologies and have a passion for travel, having lived both in the U.K. south of London and in the German wine country. I am currently lucky enough to have family to visit in Dublin, Ireland, and Geneva, Switzerland.</p>
+                    <p>I am a full stack web developer with JavaScript bootcamp certification in the MEVN stack. My wife and I have four boys (which makes a fairly decent recreational ski team). I love exploring and learning new technologies and I have a passion for travel, having lived both in the U.K. south of London, and in German wine country (it has more to offer than sweet Reslings). I am currently lucky enough to have family to visit in Dublin, Ireland, and Geneva, Switzerland.</p>
                     </div>
                 </div>
                 </div>
@@ -30,7 +30,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">Projects</span>
                     <h2 className="colorlib-heading">Itinerator</h2>
-                    <p>The <a href="http://167.172.126.107:8080/">Itinerator</a> (click link for beta release) is an application that leverages RESTful APIs such as Google maps, Eventful, and the Hiking Project to create travel itineraries with optimized directions between selected restaurants, museums, live events, and hiking trails for cities around the world. In addition to using 3 unique external APIs, it features a back-end server in Express to handle request and response routes. </p>
+                    <p>The <a href="http://167.172.126.107:8080/">Itinerator</a> (click link to view beta release) is an application that leverages RESTful APIs such as Google maps, Eventful, and the Hiking Project to create travel itineraries with optimized directions between selected restaurants, museums, live events, and hiking trails for cities around the world. In addition to using 3 unique external APIs, it features a back-end server in Express to handle request and response routes. </p>
                     </div>
                 </div>
                 </div>
@@ -50,33 +50,33 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-phone3" />
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites and chrome extentions using JavaScript,React,HTML,CSS</p>
+                    <p>I have solid experience building web applications using JavaScript with HTML5 and CSS3, with an emphasis on Vue.js and React.js as front-end frameworks. </p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-phone3" />
+                    <i className="icon-data" />
                 </span>
                 <div className="desc">
                     <h3>Data Structures</h3>
-                    <p>As coming from the CS background, I have good grasp over fundamental concepts of DSA</p>
+                    <p>Coming from a NoSQL background, I have a good grasp of data structures and database schema along with a well-founded knowledge of MongoDB.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>I am pursuing my internship with DevOps team at Juniper and working with tools like Jenkins, Docker, K8s</p>
+                    <h3>DevOps</h3>
+                    <p>My current DevOps team provides continuous development support for an enterprise web application that enables IT system management for our customers.</p>
                 </div>
                 </div>
             </div>

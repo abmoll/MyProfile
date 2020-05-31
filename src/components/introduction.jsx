@@ -11,11 +11,11 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1 style={{fontFamily: 'Arial', border:'1px', fontWeight: '100'}}>Alex Moll</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/15coSa2rnZcdywihM-pWTvoGqE65JAkxQAh6JDBNrF2Q/edit?usp=sharing" target="_blank" rel="noopener noreferrer">View Resume <i className="icon-download4" /></a></p>
+                          <h1 style={{borderRadius:'8px', background:'rgba(247, 231, 212, 0.5)', fontFamily: 'Optima', fontWeight: '100'}}>Alex Moll</h1>
+                          <p><a className="btn btn-primary" href="https://drive.google.com/file/d/1es-1LfHX-0wejZaarr0ZtyxssE3ylmwh/view?usp=sharing" style={{color: 'black'}} target="_blank" rel="noopener noreferrer">View Resume <i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
@@ -26,11 +26,11 @@ export default class Introduction extends Component {
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
-                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
+                    <div className="col-md-6 col-md-offset-3 col-md-pull-3 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1 style={{fontFamily: 'Arial', border:'1px', fontWeight: '100'}}>Web Developer</h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://github.com/abmoll" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
+                          <h1 style={{borderRadius:'8px', background:'rgba(247, 231, 212, 0.5)', fontFamily: 'Optima', fontWeight: '100'}}>Web Developer</h1>
+                          <p><a className="btn btn-primary" href="http://167.172.126.107:8080/" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
                     </div>
