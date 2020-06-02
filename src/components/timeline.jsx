@@ -44,7 +44,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Website Documentation Developer at Viavi <span>Apr. 2010 - Jun. 2017</span></h2>
-                        <p>At Viavi I streamlined business workflows extensively by creating processes for single-sourcing web documents and templates in XML and HTML format. I built a content management system using HTML, CSS, and JavaScript to enable document reuse. I also made software developer’s jobs easier by using agile processes to create well-structured SDK Guides, API manuals, and installation guides.</p>
+                        <p>At Viavi I streamlined business workflows by creating processes for single-sourcing web documents and templates in XML and HTML format. I built a content management system using HTML, CSS, and JavaScript to enable document reuse. I also made software developer’s jobs easier by using agile processes to create well-structured SDK Guides, API manuals, and installation guides.</p>
                       </div>
                     </div>
                   </article>
