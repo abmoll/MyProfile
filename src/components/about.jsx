@@ -76,7 +76,11 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>DevOps</h3>
+<<<<<<< HEAD
                     <p>I provide continuous development support for an enterprise web application which enables IT system management. Because my work is integrated with Operations, I rapidly deploy software.</p>
+=======
+                    <p>My DevOps team provides continuous development support for an enterprise web app that enables IT system management. Being integrated with Operations means we more rapidly deploy our software.</p>
+>>>>>>> 5850e18a320c77f3aa15644e13951b5520fa2322
                 </div>
                 </div>
             </div>
